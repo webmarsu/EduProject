@@ -1,0 +1,110 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "ZhGqHAjBj9qTL9WYnxKLE",
+      "type": "rectangle",
+      "x": 263.33331298828125,
+      "y": 67.0963363647461,
+      "width": 946.6666259765625,
+      "height": 694.4921875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "X6sQRE-PApO_t0JsEPYSx",
+        "_vTZC5n0ZDwnb3KR6qW_e"
+      ],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 546607769,
+      "version": 481,
+      "versionNonce": 1661774839,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1678635307570,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4zI4WX-3TboHb2vUilhoC",
+      "type": "text",
+      "x": 280,
+      "y": 22.76299285888672,
+      "width": 299,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#ced4da",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "X6sQRE-PApO_t0JsEPYSx",
+        "_vTZC5n0ZDwnb3KR6qW_e"
+      ],
+      "roundness": null,
+      "seed": 515163769,
+      "version": 455,
+      "versionNonce": 576549625,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1678635307571,
+      "link": null,
+      "locked": false,
+      "text": "Контейнер сайта",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 32,
+      "containerId": null,
+      "originalText": "Контейнер сайта"
+    },
+    {
+      "id": "rogFaRAywpAfh1hNbu8rC",
+      "type": "rectangle",
+      "x": 310.8333435058594,
+      "y": 122.82553100585938,
+      "width": 842.4999694824219,
+      "height": 150.32550048828125,
+      "angle": 6.278243984576628,
+      "strokeColor": "#000000",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "_vTZC5n0ZDwnb3KR6qW_e"
+      ],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1545394135,
+      "version": 359,
+      "versionNonce": 1944531223,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1678635285785,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
